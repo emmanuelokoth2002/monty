@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <stdio.h>
 
 globales_t globalvar = {NULL, NULL, NULL};
 
